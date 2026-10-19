@@ -23,7 +23,8 @@
   <ItemGroup>
     <None Include="..\..\..\spec\Task 1 - Extract Data from a PDF File - Sample File.pdf"
           Link="TestData\SampleFile.pdf"
-          CopyToOutputDirectory="PreserveNewest" />
+          CopyToOutputDirectory="PreserveNewest"
+          Condition="Exists('..\..\..\spec\Task 1 - Extract Data from a PDF File - Sample File.pdf')" />
     <None Include="TestData\Pages\*.txt" CopyToOutputDirectory="PreserveNewest" />
   </ItemGroup>
 

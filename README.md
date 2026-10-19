@@ -111,7 +111,7 @@ dotnet test
 ```
 
 - Many tests run against the sample PDF of the assignment. It has to be placed at `spec/Task 1 - Extract Data from a PDF File - Sample File.pdf`.
-- `spec/` is **deliberately not committed**: it contains the assignment and real crew names. Without it, the test project does not build (`MSB3030`, the PDF is copied to the test output).
+- `spec/` is **deliberately not committed**: it contains the assignment and real crew names. Without it, everything builds, but the tests that need the PDF fail.
 
 ## Assumptions / open points
 
