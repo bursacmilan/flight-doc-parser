@@ -8,16 +8,45 @@
 using FlightParser;
 using FlightParser.DependencyInjection;
 using FlightParser.Results;
+using Microsoft.Extensions.DependencyInjection;
 
-services.AddFlightPlanParser();                        // or: FlightPlanParserFactory.Create()
+// With dependency injection (logging is optional)
+await using var services = new ServiceCollection()
+    .AddLogging()
+    .AddFlightPlanParser()
+    .BuildServiceProvider();
+var parser = services.GetRequiredService<IFlightPlanParser>();
 
-var result = await parser.ParseAsync(pdfStream, cancellationToken);
+// Without dependency injection
+// var parser = FlightPlanParserFactory.Create();
+
+await using var pdf = File.OpenRead("flight-plans.pdf");
+var result = await parser.ParseAsync(pdf);
 
 switch (result)
 {
-    case FlightPlanParseResult.Parsed parsed:          // ValidFlights + FailedFlights (with reasons)
+    case FlightPlanParseResult.Parsed parsed:
+        foreach (var flight in parsed.ValidFlights)
+        {
+            Console.WriteLine($"{flight.FlightNumber} {flight.Date}: {flight.DepartureAirport}-{flight.DestinationAirport}, {flight.Crew.Count} crew");
+        }
+
+        foreach (var failed in parsed.FailedFlights)
+        {
+            foreach (var issue in failed.Issues)
+            {
+                Console.WriteLine($"{failed.FlightNumber}: {issue.Code} {issue.Message} (page {issue.PageNumber})");
+            }
+        }
+
         break;
-    case FlightPlanParseResult.Rejected rejected:      // whole document unusable (Issues)
+
+    case FlightPlanParseResult.Rejected rejected:
+        foreach (var issue in rejected.Issues)
+        {
+            Console.WriteLine($"Document rejected: {issue.Code} {issue.Message}");
+        }
+
         break;
 }
 ```
