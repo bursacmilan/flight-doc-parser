@@ -1,0 +1,58 @@
+FMS IDENT=D6348 Log Nr.: 5030 Page 1 FRA-ZRH SWR890M
+Helvetic Airways - E-Jet Operational Flight Plan CALCULATED: 190659 UTC - MET: 190000
+Helvetic OCC: +41 44 270 85 30
+Flight Info Times
+Date: 19MAR24 STD: 13:45 STA: 14:40 STE: 0:55
+Reg.: HBJVN BLK Off: _____ Take Off: _____
+Type: E190 BLK On: _____ Landing: _____
+From: EDDF FRA FRANKFURT/MAIN BLK Time: _____ Flt Time: _____
+To: LSZH ZRH ZURICH
+ALTN1: LFSB BSL BASLE/MULHOUSE CTOT: _____ _____
+ALTN2: Delay (Code/Min): _______/_____
+T/O ALT: _______/_____
+FltNr: LX1073 Loadmass
+ATC: SWR890M ACT: MAX:
+RTE: FRA-ZRH01 ZFM: 31536 kg _______ 40800 kg
+FP-DIST: 219 NM TOF: 4.0 t _______
+GC-DIST: 155 NM TOM: 35491 kg _______ 50299 kg
+ESAD-DIST: 212 NM TRIP: 1.4 t _______
+AVG. WC: 317/021 16 KTS TAIL LM: 34078 kg _______ 43000 kg
+FL: EDDF/FL220/ANEKI/FL230/
+AVG. ISA DEV: -2 PAX: 2268 kg ( 27 PAX)
+COST INDEX: N/A Cargo/Bag: 351 kg
+CLIMB PROFILE: 250/290/M.75 Underload: 8922 kg by MLM
+CRUISE PROFILE: 290 / M.78 CMD Signature
+DESCENT PROFILE: M.77/290/250
+Fuel
+PLND CORR ACT Corrections
+Taxi: 0.2 _____ _____ S ___ FL WC(kt) Time(min) Trip(kg)
+LSZH: 0:40 1.4 _____ _____ W ___ 270 16 39.0 1371
+CF 5%: 0:05 0.1 _____ _____ I ___ 250 14 39.0 1393
+LFSB: 0:44 1.7 _____ _____ F ___ 230 16 40.0 1412
+0:00 0.0 _____ _____ A ___ 210 17 40.0 1442
+ADD: 0:00 0.0 _____ _____ T ___ 190 19 39.0 1477
+FR: 0:30 0.7 _____ _____ 170 18 42.0 1531
+MIN: 1:59 4.2 _____ _____ 150 14 45.0 1618
+DF: 0:00 0.0 _____ _____
+ACT: 1:59 4.2 10KT 36 / 1T 20
+Gain / Loss: GAIN 60$/TON
+FUEL Policy: ADDNAR OPTIONAL No Discretionary Fuel Data Available
+ATC Route
+To DEST: ANEKI1Y ANEKI/N0400F230 Y163 NEKLO Y171 INKAM T725 LAMGO
+T721 RILAX
+To ALTN1: VEBIT T52 LUMEL
+To ALTN2:
+ATIS Departure ATIS Destination
+ATC Clearance
+T/O Performance
+TKOF RWY: _______ ATTCS: ON / OFF REF ECS: ON / OFF REF A/I: OFF / ENG / ALL
+RWY COND: dry / wet / other:______ ATOW / CG: _______ / ____
+Thrust Mode: T/O- 1 / 2 / 3 N1 Target: ______ FLEX TEMP: _____
+FLAPS: 1 / 2 / 3 / 4 STAB TRIM: _______ MTOW: ___________
+SPEEDS: V1: _____ VR: _____ V2: _____ VFS: _____
+Landing Performance
+LAND RWY: _____ RWY COND: dry / wet / other:______
+FLAPS: 5 / FULL ICE: NO / ICE APPR: CATI / CATII / AL REV: YES / NO
+ALM (T): ________ SPEED ADDITIVE: __________ BRK MODE: MAN / LO / MED / HI
+LDA: ____________ LDR: __________ VREF/VAC: _________ VAP: _________ VFS: __________
+Page 26 of 140 Total Pages

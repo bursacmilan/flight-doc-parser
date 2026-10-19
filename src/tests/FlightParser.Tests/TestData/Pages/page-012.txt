@@ -1,0 +1,57 @@
+FMS IDENT=D6298 Log Nr.: 2822 Page 1 MXP-ZRH SWR2TM
+Helvetic Airways - E-Jet Operational Flight Plan CALCULATED: 190643 UTC - MET: 190000
+Helvetic OCC: +41 44 270 85 30
+Flight Info Times
+Date: 19MAR24 STD: 09:40 STA: 10:45 STE: 1:05
+Reg.: HBJVY BLK Off: _____ Take Off: _____
+Type: E190 BLK On: _____ Landing: _____
+From: LIMC MXP MILAN/MALPENSA BLK Time: _____ Flt Time: _____
+To: LSZH ZRH ZURICH
+ALTN1: LFSB BSL BASLE/MULHOUSE CTOT: _____ _____
+ALTN2: Delay (Code/Min): _______/_____
+T/O ALT: _______/_____
+FltNr: LX1613 Loadmass
+ATC: SWR2TM ACT: MAX:
+RTE: MXP-ZRH02 ZFM: 35337 kg _______ 40800 kg
+FP-DIST: 263 NM TOF: 4.1 t _______
+GC-DIST: 110 NM TOM: 39423 kg _______ 50299 kg
+ESAD-DIST: 272 NM TRIP: 1.7 t _______
+AVG. WC: 332/026 16 KTS HEAD LM: 37706 kg _______ 43000 kg
+FL: LIMC/FL240/
+AVG. ISA DEV: -2 PAX: 5628 kg ( 67 PAX)
+COST INDEX: N/A Cargo/Bag: 886 kg
+CLIMB PROFILE: 250/290/M.75 Underload: 5294 kg by MLM
+CRUISE PROFILE: 290 / M.78 CMD Signature
+DESCENT PROFILE: M.77/290/250
+Fuel
+PLND CORR ACT Corrections
+Taxi: 0.2 _____ _____ S ___ FL WC(kt) Time(min) Trip(kg)
+LSZH: 0:48 1.7 _____ _____ W ___ 280 -17 50.0 1681
+CF 5%: 0:05 0.1 _____ _____ I ___ 260 -16 50.0 1696
+LFSB: 0:39 1.5 _____ _____ F ___ 240 -16 48.0 1718
+0:00 0.0 _____ _____ A ___ 220 -8 49.0 1715
+ADD: 0:00 0.0 _____ _____ T ___ 200 -7 51.0 1773
+FR: 0:30 0.8 _____ _____ 180 -6 52.0 1840
+MIN: 2:02 4.3 _____ _____ 160 0 N/A 0
+DF: 0:00 0.0 _____ _____
+ACT: 2:02 4.3 10KT 42 / 1T 23
+Gain / Loss: LOSS 40$/TON
+FUEL Policy: ADDNAR OPTIONAL No Discretionary Fuel Data Available
+ATC Route
+To DEST: PEPAG L995 CANNE Z651 KELIP
+To ALTN1: VEBIT T52 LUMEL
+To ALTN2:
+ATIS Departure ATIS Destination
+ATC Clearance
+T/O Performance
+TKOF RWY: _______ ATTCS: ON / OFF REF ECS: ON / OFF REF A/I: OFF / ENG / ALL
+RWY COND: dry / wet / other:______ ATOW / CG: _______ / ____
+Thrust Mode: T/O- 1 / 2 / 3 N1 Target: ______ FLEX TEMP: _____
+FLAPS: 1 / 2 / 3 / 4 STAB TRIM: _______ MTOW: ___________
+SPEEDS: V1: _____ VR: _____ V2: _____ VFS: _____
+Landing Performance
+LAND RWY: _____ RWY COND: dry / wet / other:______
+FLAPS: 5 / FULL ICE: NO / ICE APPR: CATI / CATII / AL REV: YES / NO
+ALM (T): ________ SPEED ADDITIVE: __________ BRK MODE: MAN / LO / MED / HI
+LDA: ____________ LDR: __________ VREF/VAC: _________ VAP: _________ VFS: __________
+Page 12 of 140 Total Pages

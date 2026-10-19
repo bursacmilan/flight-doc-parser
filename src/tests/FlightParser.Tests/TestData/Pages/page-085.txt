@@ -1,0 +1,30 @@
+Flight Assignment / Flight Crew Briefing
+19.Mar.2024 DEP ARR STD (LT) STA (LT) FLT PAX Fuel LX1073/SWR890M
+LX1073 TIME C/Y
+SWR890M
+FRA ZRH 13:45 14:40 00:55 1/26
+HBJVN (14:45) (15:40)
+Scheduled Remarks: DOW: 28916kg
+DOI: 68.7
+Pantry S
+EZFW: 31536kg
+Crew
+Func 3LC Name LX1073
+EDDF-LSZH
+CMD MUJ Jürg Müller Commander
+COP BSP Peter Paul Beispiel Copilot
+CAB TSL Lisa Test Cabin
+Attendant
+CAB PRE Eva Probe Cabin
+Attendant
+SEN DMT Tom Demo Senior Cabin
+Attendant
+X: Operating crewmember, T: Trainee, I: Instructor, LC: Linecheck, INEX: Inexperienced
+Observer and Jumpseat Assignments
+Function Name
+NO observer or approved Jumpseat assignment
+O: Observer, TO: Trainee/Observer, IO: Instructor/Observer JS: Jumpseat assignment, CP: Cockpit Permit
+Contacts
+Piquet Officer (PQO): +41 44 270 85 85 OCC:+41 44 270 85 30 OCC Backup: +41 79 939 09 20
+Page 1 of 4 19.Mar.2024 08:05:05
+Page 85 of 140 Total Pages

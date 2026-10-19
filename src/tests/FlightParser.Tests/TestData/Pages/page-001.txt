@@ -1,0 +1,8 @@
+CrewBriefing Information Package
+for Flight Group
+AIR SUPPORT PPS - CrewBriefing
+Flight group flights:
+• LX1612(SWR612Q)-ZRH-MXP (STD ATC FPL status: ACK EOBT: 0800
+• LX1613(SWR2TM)-MXP-ZRH (STD ATC FPL status: SAM EOBT: 0940 CTOT: 1020
+• LX1072(SWR2ET)-ZRH-FRA (STD ATC FPL status: ACK EOBT: 1115
+• LX1073(SWR890M)-FRA-ZRH (STD ATC FPL status: ACK EOBT: 1345

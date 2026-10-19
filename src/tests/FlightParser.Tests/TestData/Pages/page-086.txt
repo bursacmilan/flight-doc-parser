@@ -1,0 +1,39 @@
+Flight Assignment / Flight Crew Briefing
+Airport Information
+EDDF-FRA-FRANKFURT-FRANKFURT MAIN CAT A (E190)
+INTERNATIONAL
+Ground Services
+Handling AHS FRANKFURT GMBH & CO KG 131.485MHz +49 69 6902 2473
+Station Information
+Security Search Required No Aircraft Sealing Required Yes
+DCS Loadsheet approval LX only
+Safety Demo BELT / OXY NADP NADP 2
+Fuel: Minimum Uplift Fee Additional fee in case less than 1000L fuel is uplifted
+Fuel: No Uplift Fee Please inform FRA station via VHF frequency in case no fuel is required to avoid "no fuel uplift fee".
+Various IN CASE A/C OPERATES WITH ACARS INOP OR A/C IS NOT
+EQUIPPED WITH ACARS PLS ADVISE STATION FRA VIA RADIO
+TO PROVIDE A PRINTED LOADSHEET!
+Various An A-CDM app for EDDF, EDDB, EDDH, EDDL is available for Apple/Android users and can be downloaded
+via AppStore/Google Play.
+The name of the app is: Airport CDM.
+More information is available on the following website:
+https://www.munich-airport.de/airport-cdm/de
+Alternates
+EDDK EDDL EDFH LSZH
+LSZH-ZRH-ZURICH CAT B ac (E190) SEE OM-C
+Ground Services
+Handling SWISSPORT // LX OPS 131.705MHz +41 44 564 4582
+GPU - included
+Water service - included
+Toilet service - included
+Cabin Cleaning - included
+Station Information
+Security Search Required No Aircraft Sealing Required No
+DCS Loadsheet approval LX & 2L
+Safety Demo BELT / OXY NADP Special Procedure (OM-C)
+Fuel: No Uplift Fee 2L: Inform OCC if no fuel uplift is required in order to avoid “No Uplift Fee”.
+Alternates
+EDDS EDNY LFSB LIMC LSGG
+Company Notam (Flight Crew Briefing Sheet)
+Page 2 of 4 19.Mar.2024 08:05:05
+Page 86 of 140 Total Pages
